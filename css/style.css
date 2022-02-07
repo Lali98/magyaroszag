@@ -1,0 +1,13 @@
+.row .col-lg-7 p{
+    text-indent: 30px;
+}
+
+.center-block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
